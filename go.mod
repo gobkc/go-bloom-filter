@@ -1,3 +1,3 @@
-module github.com/gobkc/go-bloom-filter
+module github.com/gobkc/gobloom
 
 go 1.20
