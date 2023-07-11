@@ -7,7 +7,7 @@ You can commit PR to this repository
 
 ### How to get it?
 ````
-go get -u github.com/gobkc/gobloom
+go get -u github.com/gobkc/go-bloom-filter
 ````
 
 ### Quick start
@@ -15,7 +15,7 @@ go get -u github.com/gobkc/gobloom
 package main
 
 import (
-	"github.com/gobkc/gobloom"
+	"github.com/gobkc/go-bloom-filter"
 	"fmt"
 )
 
